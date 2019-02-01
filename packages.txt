@@ -1,0 +1,7 @@
+jupyter
+scikit-learn
+pandas
+pillow
+matplotlib
+wordcloud
+nltk
